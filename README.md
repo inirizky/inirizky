@@ -1,8 +1,8 @@
 - 👋 Hi, I’m M. Rizki Reza Pahlevi
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning React JS, NextJS, and NodeJS.
-- 💞️ I’m looking to collaborate on Front End Developer
-- 📫 How to reach me email to rizkytekno.net@gmail.com or DM Instagram @rizkyteknologi
+- 💞️ I’m looking to collaborate on Front End Developer and UI/UX Design
+- 📫 How to reach me email to rizkytekno.net@gmail.com or DM Instagram @ini.rizky
 
 <!---
 inirizky/inirizky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
